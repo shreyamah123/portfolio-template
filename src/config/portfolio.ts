@@ -44,11 +44,11 @@ export const person = {
   /** One or two sentences under your name in the hero. */
   bio: 'I build systems that run fast and fail gracefully. Terraform, Node.js, distributed infrastructure — I share what I learn as I build.',
   /** City, Country — shown next to the availability dot. */
-  location: 'Leeds, United Kingdom',
+  location: 'Leeds, ',
   /** Short availability line (set to '' to hide the green pulse + text). */
   availability: 'Open to senior / lead roles',
   /** Path (in /public) to your résumé PDF. */
-  resumeUrl: 'c:\Users\jib45\Downloads\Resume shreya.pdf',
+  resumeUrl: 'assets/resume/resume.pdf',
   /** Skill pills under your bio. Add/remove freely. */
   skills: [
     'AEM',
