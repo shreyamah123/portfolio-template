@@ -24,9 +24,9 @@
  * Shown in the browser tab and by search engines & social cards. */
 export const site = {
   /** Short brand shown in the header & footer (e.g. a handle or initials). */
-  brand: 'vpnsin',
+  brand: 'ASUS',
   /** <title> tag. */
-  title: 'vpnsin — Engineering Work by Hand',
+  title: 'ASUS— Engineering Work by Hand',
   /** <meta name="description">. Keep it under ~160 characters. */
   description:
     'The workshop of a devops engineer who ships real things. Projects, essays, and open-source contributions — hand-finished, annotated, and honest.',
@@ -37,10 +37,10 @@ export const site = {
 /* ── 2. Person ─────────────────────────────────────────────────────────────
  * Who you are. Drives the hero "name spine", header, and footer. */
 export const person = {
-  firstName: 'First',
-  lastName: 'Name',
+  firstName: 'Shreya',
+  lastName: 'Maheshwari',
   /** The small eyebrow above your name (your title / role). */
-  role: 'Senior DevOps Engineer',
+  role: 'Intern',
   /** One or two sentences under your name in the hero. */
   bio: 'I build systems that run fast and fail gracefully. Terraform, Node.js, distributed infrastructure — I share what I learn as I build.',
   /** City, Country — shown next to the availability dot. */
@@ -48,7 +48,7 @@ export const person = {
   /** Short availability line (set to '' to hide the green pulse + text). */
   availability: 'Open to senior / lead roles',
   /** Path (in /public) to your résumé PDF. */
-  resumeUrl: 'assets/resume/resume.pdf',
+  resumeUrl: 'c:\Users\jib45\Downloads\Resume shreya.pdf',
   /** Skill pills under your bio. Add/remove freely. */
   skills: [
     'AEM',
@@ -75,11 +75,11 @@ export const person = {
  * `githubUsername` also powers the live contribution heatmap in "Peer Signal".
  * Leave any URL as '' to hide that icon. */
 export const social = {
-  githubUsername: 'vpnsin',
-  github: 'https://github.com/vpnsin',
+  githubUsername: 'shreyamah123',
+  github: 'https://github.com/shreyamah123',
   twitter: 'https://twitter.com/vpnsin',
-  linkedin: 'https://www.linkedin.com/in/vipin-k-singh/',
-  email: '',
+  linkedin: 'https://www.linkedin.com/in/shreya-maheshwari-897b22329/',
+  email: 'jib45195@gmail.com',
 };
 
 /* ── 4. Hero ───────────────────────────────────────────────────────────────
